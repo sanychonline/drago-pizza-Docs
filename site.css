@@ -1175,3 +1175,15 @@ h1 {
     max-width: 42vw;
   }
 }
+
+/* Shared support and legal pages use Drago Pizza's ember and basil palette. */
+.topbar, .home .topbar { background: rgba(101, 35, 30, .94); }
+body:not(.home) { background: radial-gradient(circle at 12% 12%, rgba(255, 185, 74, .35), transparent 22rem), radial-gradient(circle at 88% 18%, rgba(145, 201, 91, .3), transparent 24rem), linear-gradient(180deg, #FFF9F3, #FFE1BA 54%, #F6C783); }
+.legal-hero { background: radial-gradient(circle at 82% 16%, rgba(145, 201, 91, .5), transparent 23rem), linear-gradient(145deg, #5A1E1C, #C74432 54%, #F19A32); }
+.summary { border-color: rgba(199, 68, 50, .32); background: rgba(255, 178, 63, .22); }
+.toc, .stat-card, .faq details { border-color: rgba(199, 68, 50, .23); background: rgba(255, 252, 247, .8); }
+.faq details[open] { background: #FFFFFF; box-shadow: 0 14px 36px rgba(90, 30, 28, .13); }
+.document p, .document li, .faq-answer { color: #6B4035; }
+.page-card { background: linear-gradient(145deg, #5A1E1C, #B93B2E 55%, #70A943); }
+.page-card::after { color: #FFE07C; }
+.footer { background: #401310; }
