@@ -1,0 +1,17 @@
+# pizzaVille Docs
+
+Official website for **Drago Pizza** / **Drago Pizza**, an iOS arcade game starring Drago.
+
+## Main character
+
+The game's main character is **Drago** (**Драго**).
+
+## Pages
+
+- `index.html` — product landing page
+- `support.html` — localized support in 17 languages
+- `privacy.html` — privacy policy
+- `terms.html` — terms of use
+
+The site is static and deployed to GitHub Pages through
+`.github/workflows/pages.yml`.
