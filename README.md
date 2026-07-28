@@ -1,6 +1,6 @@
 # Drago Pizza Docs
 
-Public product and support site for **Drago Pizza** / **Дракончик Пепероні**. The character is **Дракончик Пепероні**, catching falling pizza slices in a three-lane arcade game.
+Public product and support site for **Drago Pizza** / **Дракончик Пепероні**. The character is **Дракончик Пепероні**, racing through a pizza-themed three-lane arcade run.
 
 ## Site content
 
