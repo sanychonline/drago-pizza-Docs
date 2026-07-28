@@ -1,17 +1,16 @@
-# pizzaVille Docs
+# Drago Pizza Docs
 
-Official website for **Drago Pizza** / **Drago Pizza**, an iOS arcade game starring Drago.
+Public product and support site for **Drago Pizza** / **Дракончик Пепероні**. The character is **Дракончик Пепероні**, catching falling pizza slices in a three-lane arcade game.
 
-## Main character
+## Site content
 
-The game's main character is **Drago** (**Драго**).
+- Uses Drago Pizza app assets: character, pizza slices, game background, icon, and logo.
+- Keeps the tomato-red, cheese-gold, and basil-green palette consistent on `index.html`, `support.html`, `privacy.html`, and `terms.html`.
+- Shows the approved Docs screenshots: launch art without a spinner, active gameplay with falling pizza slices and no Game Over or banner, and English settings.
+- Provides localized support in 17 interface languages.
 
-## Pages
+## Deployment
 
-- `index.html` — product landing page
-- `support.html` — localized support in 17 languages
-- `privacy.html` — privacy policy
-- `terms.html` — terms of use
+The static public site deploys from `main` through `.github/workflows/pages.yml`.
 
-The site is static and deployed to GitHub Pages through
-`.github/workflows/pages.yml`.
+https://sanychonline.github.io/dragoPizzaDocs/
